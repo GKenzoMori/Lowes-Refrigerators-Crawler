@@ -14,7 +14,7 @@ Autor -> Guilherme Kenzo Mori
 * Necessary install -> pip install scrapy
 
 
-* Total number of Crawled Refrigerators -> 965
+* Total number of Crawled Refrigerators -> 966
 
 
 * Crawled Items -> SKU, Brand, Title, Rating Value, Review Count, Price, Availability, Item, Model, URL Image, URL
