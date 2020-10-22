@@ -1,0 +1,18 @@
+Server: istio-envoy
+Content-Type: text/html; charset=utf-8
+Set-Cookie: akavpau_default=1603222156~id=112057a2e0398a19060d175cf14baefe; Path=/; Secure; SameSite=None
+Set-Cookie: akaalb_prod_dual=1603308256~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|PROD_GCP_EAST_CTRL_C:PROD_EAST_C|~rv=14~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|PROD_EAST_C:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=fcf8e0b5710617a495e0d686ad2f06e0; path=/; Expires=Wed, 21 Oct 2020 19:24:16 GMT; Secure; SameSite=None
+Set-Cookie: dbid=null; Expires=Tue, 1 May 2000 08:48:44 GMT; Secure; HttpOnly; Path=/
+X-Envoy-Upstream-Service-Time: 77
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors 'self'; upgrade-insecure-requests
+Server-Timing: edge; dur=1
+Server-Timing: cdn-cache; desc=HIT
+Vary: Accept-Encoding
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3mRUM,2
+X-Akamai-Path-Stats: [1:511:2489]
+Content-Encoding: gzip
+Expires: Tue, 20 Oct 2020 19:24:16 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 20 Oct 2020 19:24:16 GMT
