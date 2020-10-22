@@ -5,22 +5,22 @@ Lowe's Refrigerators Web Crawler for Birdie Intern Test
 Autor -> Guilherme Kenzo Mori
 
 
-*Framework -> Scrapy
+* Framework -> Scrapy
 
 
-*IDE -> Microsoft Visual Studio Code (Python)
+* IDE -> Microsoft Visual Studio Code (Python)
 
 
-*Necessary install -> pip install scrapy
+* Necessary install -> pip install scrapy
 
 
-*Total number of Crawled Refrigerators -> 965
+* Total number of Crawled Refrigerators -> 965
 
 
-*Crawled Items -> SKU, Brand, Title, Rating Value, Review Count, Price, Availability, Item, Model, URL Image, URL
+* Crawled Items -> SKU, Brand, Title, Rating Value, Review Count, Price, Availability, Item, Model, URL Image, URL
 
 
-*Output -> Result.csv
+* Output -> Result.csv
 
 
 
